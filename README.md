@@ -11,7 +11,7 @@ Check it out here: [Live App](https://)
 ## 🚀 How to Set Up & Run
 
 1. **Clone this repo**
-   git clone <repository-url>
+   git clone https://github.com/chetvishal/gemini-clone.git
    cd gemini-frontend-clone
 
 2. **Install dependencies**
