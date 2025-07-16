@@ -11,16 +11,21 @@ Check it out here: [Live App](https://)
 ## 🚀 How to Set Up & Run
 
 1. **Clone this repo**
+
    git clone https://github.com/chetvishal/gemini-clone.git
+
    cd gemini-frontend-clone
 
 2. **Install dependencies**
+
    npm install
 
 3. **Start the app**
+
    npm run dev
 
 4. **Open your browser**
+
    Go to [http://localhost:5173](http://localhost:5173)
 
 ---
@@ -29,11 +34,11 @@ Check it out here: [Live App](https://)
 
 Here’s a quick look at what’s inside:
 
-- **components/** – All the building blocks for the UI. This includes stuff for logging in, chatting, the layout, and reusable things like buttons.
-- **hooks/** – Custom React hooks. These are little helpers for things like simulating AI replies or adding a delay to searches.
-- **lib/** – Just some utility functions and a file with country data.
-- **store/** – This is where the app keeps track of things like who’s logged in, your chats, and whether you’re using dark mode.
-- **types/** – All the TypeScript type definitions live here.
+- **components** – All the building blocks for the UI. This includes stuff for logging in, chatting, the layout, and reusable things like buttons.
+- **hooks** – Custom React hooks. These are little helpers for things like simulating AI replies or adding a delay to searches.
+- **lib** – Just some utility functions and a file with country data.
+- **store** – This is where the app keeps track of things like who’s logged in, your chats, and whether you’re using dark mode.
+- **types** – All the TypeScript type definitions live here.
 - **App.tsx** – The main app file that brings everything together.
 
 That’s pretty much it! Each folder has its own job, and together they make the app work.
