@@ -4,7 +4,7 @@ Hey there! 👋 This is a chat app inspired by Google's Gemini. It's built with 
 
 ##  Live Demo
 
-Check it out here: [Live App]([https://](https://gemini-clone-weld-nine.vercel.app/)
+Check it out here: [Live App](https://gemini-clone-weld-nine.vercel.app/)
 
 ---
 
